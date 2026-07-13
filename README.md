@@ -1,1 +1,0 @@
-# RC-Equivalent-Circuit-Modelling
